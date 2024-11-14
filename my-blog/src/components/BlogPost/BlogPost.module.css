@@ -1,3 +1,4 @@
+
 .blogPost {
     max-width: 800px;
     margin: 2rem auto;
@@ -46,6 +47,7 @@
   }
   
   .date {
+    Color: black;
     font-style: italic;
   } 
   

@@ -1,3 +1,4 @@
+//Testing BlogPost component
 import { useState, useEffect } from 'react';import PropTypes from 'prop-types';
 import LikeButton from '../LikeButton/LikeButton';
 import CommentSection from '../CommentSection/CommentSection';

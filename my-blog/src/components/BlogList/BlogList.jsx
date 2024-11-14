@@ -1,3 +1,4 @@
+//Testing the BlogList component
 import PropTypes from 'prop-types';
 import BlogPost from '../BlogPost/BlogPost';
 //import './BlogList.css';
